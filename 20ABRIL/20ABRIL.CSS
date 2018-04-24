@@ -1,0 +1,15 @@
+:root{
+    --alto_caja:100px;
+    --ancho_caja:100px
+    
+}
+.variable{
+    width: var(--alto_caja);
+    height: var(--ancho_caja);
+    background-color: violet;
+}
+.variable2{
+    width: var(--alto_caja);
+    height: var(--ancho_caja);
+    background-color: salmon;
+}

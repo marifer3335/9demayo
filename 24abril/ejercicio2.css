@@ -1,0 +1,19 @@
+.menu{
+    background-color: black;
+    color: white;
+    height: 30px;
+    font-size: 20px;
+    margin-top: 1cm;
+}
+.menu2{
+   
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    height: 40px;
+}
+.costumer{
+    font-size: 20px;
+    
+}

@@ -1,0 +1,27 @@
+.caja{
+    width: 100px;
+    height: 100px;
+    background-color:orchid;
+    display:inline-block;
+    
+}
+.contenedor{
+    font-size: 0%;
+    margin-bottom:10px;
+    border:1px solid black; 
+}
+    
+.caja2{
+
+
+    width: 100px;
+    height: 100px;
+    background-color:rgb(15, 7, 15);
+    display: flex-end;
+    align-content: flex-start;
+   
+    
+}
+.contenedor{
+    display: flex;
+}

@@ -1,0 +1,57 @@
+
+body{
+    margin: 0%;
+}
+
+    
+.fondo{
+
+    height: 100px;
+    background-color: violet;
+    width: 100%;
+    position: fixed;
+    right: 10px;
+
+}
+.texto{
+    max-width: 100%;
+}
+.texto{
+   min-height: 1500px;
+   color: black;
+   background-color: cornflowerblue;
+   
+}
+.pa{
+    width: 100%;
+    height: 500px;
+    background-color: lightskyblue;
+    position: relative;
+   
+}
+.elemento{
+    width: 100px;
+    height: 100px;
+    background-color: lightcoral;
+    position: absolute;
+    
+}
+.arribaderecha{
+    right: 10px;
+    top: 0%;
+    
+}
+.arribaizquierda{
+    left: 0%;
+    top: 0%;
+    background-color: lightcoral;
+}
+.abajoizquierda{
+
+}
+.abajoderecha{
+
+}
+.centrado{
+
+}   

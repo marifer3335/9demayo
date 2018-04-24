@@ -1,0 +1,28 @@
+.CONTENEDOR{
+    background-color: darkorchid;
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.CAJA_PEQUENA{
+    background-color: hotpink;
+    width: 150PX;
+    height: 150PX;
+    text-align: center;
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+.CAJA_GRANDE{
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+  
