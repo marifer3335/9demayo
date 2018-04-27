@@ -1,0 +1,124 @@
+.columna1{
+    background-color: red;
+    height: 3cm;
+}
+.columna2{
+    background-color: green;
+    height: 3cm;
+}
+.col1{
+    background-color: red;
+    height: 5cm;
+
+}
+.col2{
+    background-color: green;
+    height: 5cm;
+}
+.col3{
+    background-color: blue;
+    height: 5cm;
+}
+.rosa{
+    background-color: indianred;
+    height: 200px;
+}
+.rosa1{
+    background-color: hotpink;
+    height: 200px;
+}
+.fila1{
+    background-color: red;
+    height: 3cm;
+}
+.fila2{
+    background-color: green;
+    height: 3cm;
+}
+.fila3{
+    background-color: blue;
+    height: 3cm;
+}
+.fila4{
+    background-color: black;
+    height: 3cm;
+}
+.verde{
+    background-color: green;
+    height: 300px;
+}
+.fila{
+    height: 300px;
+   
+}
+.gris{
+    background-color: grey;
+    height: 200px;
+}
+.verde1{
+    height: 200px;
+    background-color: green;
+}
+.azul1{
+    height: 200px;
+    background-color: blue;
+}
+.comex{
+    background-color: deepskyblue;
+    height: 2cm;
+}
+
+.blanca{
+    background-color: white;
+}
+
+
+.tienda{
+    background-color: limegreen;
+    height: 200px;
+}
+.texto{
+   color:black;
+   font-size: 15px;
+   text-align: center;
+}
+.lupa{
+    background-color:deepskyblue;
+    height: 2cm;
+}
+.tienda{
+    background-color: white;
+    font-size: 30px;
+}
+.azul10{
+    background-color: blue;
+    height: 6cm;
+}
+.rojo10{
+    background-color: darkred;
+    height: 6cm;
+}
+.primera_columna{
+    background-color: aqua;
+    height: 3cm;
+}
+.segunda_columna{
+    background-color: blueviolet;
+    height: 3cm;
+}
+.tercera_columna{
+    background-color: black;
+    height: 3cm;
+}
+.cuarta_columna{
+    background-color: crimson;
+    height: 3cm;
+}
+.quinta_columna{
+    background-color: darkorange;
+    height: 3cm;
+}
+.rosa2{
+    background-color: deeppink;
+    height: 200px;
+}
