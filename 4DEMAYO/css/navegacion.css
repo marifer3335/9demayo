@@ -1,0 +1,21 @@
+#container-fluid{
+    background-color: hotpink;
+    color: floralwhite;
+    text-align: center;
+    font-size: 30px;
+    height: 60px;
+    border: solid  mediumorchid;
+    border:0px 60px 0px 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+
+    
+}
+.boton{
+    background-color:hotpink;
+    color: papayawhip;
+    height: 2cm;
+}
+.estilo{
+    display: none;
+}
